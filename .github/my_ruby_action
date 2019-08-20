@@ -1,0 +1,3 @@
+curl https://raw.githubusercontent.com/mscoutermarsh/ruby-action-recipe/master/action.rb > action.rb
+curl https://raw.githubusercontent.com/mscoutermarsh/ruby-action-recipe/master/Dockerfile > Dockerfile
+curl https://raw.githubusercontent.com/mscoutermarsh/ruby-action-recipe/master/entrypoint.sh > entrypoint.sh
